@@ -7,7 +7,7 @@ WaveDM is a modified version based on PyUltraLight (https://github.com/auckland-
 
 ### Contents
 - `SolitonMY.py`: The core of the code, including the solver of WDM dynamics and box construction in k and x space;
-- `Output_Videos`: The output of the video of WDM solitons formation or mergers;
+- `Output_Videos`: The output of the video of WDM soliton formation or merger;
 - `Simulation.ipynb`: The jupyter notebook for the input.
 
 ### Getting started
