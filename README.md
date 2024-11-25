@@ -11,7 +11,7 @@ WaveDM is a modified version based on PyUltraLight (https://github.com/auckland-
 - `Soliton_Simulation.ipynb`: The jupyter notebook for the input.
 
 ### Getting started
-To run the jupyter notebook `Simulation.ipynb`.
+To run the jupyter notebook `Soliton_Simulation.ipynb`.
 
 ### Dependencies
 The code is compatible with Python3. More detailed dependencies can be found in `Simulation.ipynb`.
